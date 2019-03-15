@@ -28,7 +28,7 @@
   ota_update: ^0.1.3 //版本更新
 
 应用截图
-
+https://github.com/hhyq520/FlutterDemo/blob/master/shots/device-2019-03-15-110835.png
 
 A new Flutter application.
 
